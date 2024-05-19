@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cn2jla2ak6bnw"]
+
+[ext_resource type="Script" path="res://Scripts/ImageEater.gd" id="1_psjxj"]
+
+[node name="ImageEater" type="Node"]
+script = ExtResource("1_psjxj")

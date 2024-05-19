@@ -1,0 +1,16 @@
+I did not make or claim to make the information the torrent is hashed from.
+information being the bad apple video and song, I did'nt make that.
+for legal reasons a torrent contains no information it mearly identifies 
+information.
+
+let's pretend 84 is a big number 
+8+4 = 12 and 1+2 is 3 
+but 3 is not 8 + 4 or 84 
+you can't get 8+4 from 3 
+but you can check that 84 is not 72
+because if you keep adding the digits together 
+72 eventualy gives you 9
+but 84 eventualy gives you 3
+because of collisions like 3+3+3+3 = 12 
+a more complex method is used for actual torrents 
+over simply adding the digits together 
