@@ -418,7 +418,7 @@ func _SetBoarder():
 #endregion PreLoad-SizeLimter4Testing---------------------------------------------------#
 
 #region PreLoad-GetAryVec2FromFile---------------------------------------------------#
-#const _SavePath = "res://BadAppleData/BA"
+const _SavePath = "res://BadAppleData/BA"
 @export
 var StartImgFrame: int = 0
 var _imgNumber:int = 1 + StartImgFrame
@@ -430,7 +430,7 @@ func _PathEnd(End:String)->String:
 	else:
 		return str(_imgNumber)+End
 
-var _SavePath : String = "/home/alexander/Documents/Godot4/BadAppleAutoTileMap/BadAppleData/BA"
+
 var _WhiteVec2iAry : Array[Vector2i]
 var _BlackVec2iAry : Array[Vector2i]
 var _WhiteAry : Array = []
